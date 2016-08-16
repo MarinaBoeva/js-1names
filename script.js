@@ -13,7 +13,7 @@ function findInArr() {
    for (var i = 0; i < names.length; i++) {
     names[i];
     if(names[i] === enteredName){
-    marker=true;//глобальная переменная
+    marker=true;//глобальная переменная :(
     break;
   }
  }
